@@ -19,3 +19,4 @@ module.exports = {
   getLast,
   taskNext
 };
+
